@@ -57,17 +57,15 @@ export class ContentItemDetailsComponent {
     }
   }
 
-  // ...existing code...
-getModelTypeName(modelType?: number): string {
-  switch (modelType) {
-    case 0: return 'llama3.2';
-    case 1: return 'llama3.1';
-    case 2: return 'gemma3';
-    case 3: return 'deepseek-r1';
-    case 4: return 'phi-4-mini';
-    default: return 'Unknown Model';
+  getModelTypeName(modelType?: number): string {
+    switch (modelType) {
+      case 0: return 'llama3.2';
+      case 1: return 'llama3.1';
+      case 2: return 'gemma3';
+      case 3: return 'deepseek-r1';
+      case 4: return 'phi-4-mini';
+      default: return 'Unknown Model';
+    }
   }
-}
-// ...existing code...
 
 }

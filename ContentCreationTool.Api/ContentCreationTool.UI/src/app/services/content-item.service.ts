@@ -12,10 +12,6 @@ export class ContentItemService {
   constructor(private http: HttpClient) {}
 
   // Metodă pentru a crea un ContentItem
-  // createContentItem(data: any): Observable<ContentItemWithLLMResponse> {
-  //   console.log('Creating ContentItem with data:', data); // Log pentru a verifica datele trimise
-  //   return this.http.post<ContentItemWithLLMResponse>(this.apiUrl, data);
-  // }
   createContentItem(data: FormData): Observable<ContentItemWithLLMResponse> {
     console.log('Creating ContentItem with data:', data); // Log pentru a verifica datele trimise
     return this.http.post<ContentItemWithLLMResponse>(this.apiUrl, data);

@@ -1,129 +1,133 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\",
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\controllers\\contentitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\controllers\\contentitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\asktextdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\asktextdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\llmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\llmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\domain\\enums\\llmmodeltypeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\domain\\enums\\llmmodeltypeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\basecontentitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\basecontentitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\contentitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\contentitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\basetextdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\basetextdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\controllers\\textdocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\controllers\\textdocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\services\\iollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\services\\iollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\services\\iollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\controllers\\llmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\controllers\\llmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\domain\\enums\\llmmodeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\domain\\enums\\llmmodeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\migrations\\20250426221750_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\migrations\\20250426221750_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\application\\repositories\\textdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\repositories\\textdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\application\\repositories\\icontentitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\repositories\\icontentitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\application\\repositories\\contentitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\repositories\\contentitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\application\\repositories\\itextdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\repositories\\itextdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\domain\\entities\\contentitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\domain\\entities\\contentitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\contentitemuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\contentitemuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\domain\\entities\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\domain\\entities\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\domain\\entities\\imagedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\domain\\entities\\imagedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\llmresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\llmresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\textdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\textdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\application\\repositories\\imagedocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\domain\\enums\\llmmodeltypeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\domain\\enums\\llmmodeltypeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\domain\\enums\\llmmodeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\domain\\enums\\llmmodeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\domain\\entities\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\domain\\entities\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\domain\\entities\\imagedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\domain\\entities\\imagedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\domain\\entities\\contentitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\domain\\entities\\contentitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\controllers\\textdocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\controllers\\textdocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\controllers\\llmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\controllers\\llmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\controllers\\contentitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\controllers\\contentitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\application\\repositories\\textdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\repositories\\textdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\application\\repositories\\itextdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\repositories\\itextdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\application\\repositories\\imagedocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\repositories\\imagedocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\application\\repositories\\iimagedocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\application\\repositories\\iimagedocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\repositories\\iimagedocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\contentcreationtool.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\application\\repositories\\icontentitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\repositories\\icontentitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\application\\repositories\\contentitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\repositories\\contentitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\textdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\textdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\llmresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\llmresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\asktextdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\asktextdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\llmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\llmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\basecontentitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\basecontentitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\contentitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\contentitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\basetextdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\basetextdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\application\\dtos\\contentitemuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\application\\dtos\\contentitemuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\contentcreationtool.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\contentcreationtool.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\github\\document-analysis-platform\\contentcreationtool.api\\contentcreationtool.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|c:\\users\\andre\\documents\\uaic\\sem6\\net_ii\\contentcreationtool.api\\contentcreationtool.api\\migrations\\20250426221750_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E765076-D93B-4C11-80EE-E1B96D51D122}|ContentCreationTool.Api\\ContentCreationTool.Api.csproj|solutionrelative:contentcreationtool.api\\migrations\\20250426221750_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -133,7 +137,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 118,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -157,72 +161,297 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:18:07.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LLMModelTypeExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Enums\\LLMModelTypeExtensions.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Domain\\Enums\\LLMModelTypeExtensions.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Enums\\LLMModelTypeExtensions.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Domain\\Enums\\LLMModelTypeExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:42:36.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:48:49.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOllamaService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Services\\IOllamaService.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Services\\IOllamaService.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Services\\IOllamaService.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Services\\IOllamaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:17:59.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OllamaService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Services\\OllamaService.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Services\\OllamaService.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Services\\OllamaService.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Services\\OllamaService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:17:58.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Program.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:30:38.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LLMModelType.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Enums\\LLMModelType.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Domain\\Enums\\LLMModelType.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Enums\\LLMModelType.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Domain\\Enums\\LLMModelType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:12:19.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextDocument.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Entities\\TextDocument.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Domain\\Entities\\TextDocument.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Entities\\TextDocument.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Domain\\Entities\\TextDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:11:23.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImageDocument.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Entities\\ImageDocument.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Domain\\Entities\\ImageDocument.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Entities\\ImageDocument.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Domain\\Entities\\ImageDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:11:33.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250426221750_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Migrations\\20250426221750_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Migrations\\20250426221750_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Migrations\\20250426221750_InitialCreate.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Migrations\\20250426221750_InitialCreate.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:17:50.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContentItem.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Entities\\ContentItem.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Domain\\Entities\\ContentItem.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Entities\\ContentItem.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Domain\\Entities\\ContentItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:08:47.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TextDocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Controllers\\TextDocumentController.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Controllers\\TextDocumentController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Controllers\\TextDocumentController.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Controllers\\TextDocumentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:43:03.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LLMController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Controllers\\LLMController.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Controllers\\LLMController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Controllers\\LLMController.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Controllers\\LLMController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:57:40.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ContentItemController.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Controllers\\ContentItemController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Controllers\\ContentItemController.cs",
               "RelativeDocumentMoniker": "ContentCreationTool.Api\\Controllers\\ContentItemController.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Controllers\\ContentItemController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Controllers\\ContentItemController.cs",
               "RelativeToolTip": "ContentCreationTool.Api\\Controllers\\ContentItemController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMMAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAALUAAAAAAAAAAAAAwI0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T16:58:42.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AskTextDocumentDto.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\AskTextDocumentDto.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\DTOs\\AskTextDocumentDto.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\AskTextDocumentDto.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Application\\DTOs\\AskTextDocumentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "TextDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\TextDocumentRepository.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\Repositories\\TextDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\TextDocumentRepository.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Application\\Repositories\\TextDocumentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T19:07:30.567Z"
+              "WhenOpened": "2025-04-27T00:28:59.391Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseTextDocumentDto.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\BaseTextDocumentDto.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\DTOs\\BaseTextDocumentDto.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\BaseTextDocumentDto.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Application\\DTOs\\BaseTextDocumentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "ITextDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\ITextDocumentRepository.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\Repositories\\ITextDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\ITextDocumentRepository.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Application\\Repositories\\ITextDocumentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T00:36:46.187Z"
+              "WhenOpened": "2025-04-27T00:28:45.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LLMModelTypeExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Enums\\LLMModelTypeExtensions.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Domain\\Enums\\LLMModelTypeExtensions.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Enums\\LLMModelTypeExtensions.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Domain\\Enums\\LLMModelTypeExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "ImageDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\ImageDocumentRepository.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\Repositories\\ImageDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\ImageDocumentRepository.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Application\\Repositories\\ImageDocumentRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T21:42:36.488Z"
+              "WhenOpened": "2025-04-27T00:30:17.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ContentItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\ContentItemDto.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\DTOs\\ContentItemDto.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\ContentItemDto.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Application\\DTOs\\ContentItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "IImageDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\IImageDocumentRepository.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\Repositories\\IImageDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\IImageDocumentRepository.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Application\\Repositories\\IImageDocumentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T00:03:54.769Z"
+              "WhenOpened": "2025-04-27T00:29:56.732Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
+              "Title": "IContentItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\IContentItemRepository.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\Repositories\\IContentItemRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\IContentItemRepository.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Application\\Repositories\\IContentItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:31:58.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContentItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\ContentItemRepository.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\Repositories\\ContentItemRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\ContentItemRepository.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Application\\Repositories\\ContentItemRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwGAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:58:25.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TextDocumentDto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\TextDocumentDto.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\DTOs\\TextDocumentDto.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\TextDocumentDto.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Application\\DTOs\\TextDocumentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:50:17.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LLMResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\LLMResponseDto.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\DTOs\\LLMResponseDto.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\LLMResponseDto.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Application\\DTOs\\LLMResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:13:47.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "LLMRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\LLMRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\LLMRequestDto.cs",
               "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\DTOs\\LLMRequestDto.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\LLMRequestDto.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\LLMRequestDto.cs",
               "RelativeToolTip": "ContentCreationTool.Api\\Application\\DTOs\\LLMRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -230,11 +459,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 25,
+              "Title": "ContentItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\ContentItemDto.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\DTOs\\ContentItemDto.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\ContentItemDto.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Application\\DTOs\\ContentItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:03:54.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseTextDocumentDto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\BaseTextDocumentDto.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\DTOs\\BaseTextDocumentDto.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\BaseTextDocumentDto.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Application\\DTOs\\BaseTextDocumentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:36:46.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AskTextDocumentDto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\AskTextDocumentDto.cs",
+              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\DTOs\\AskTextDocumentDto.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\AskTextDocumentDto.cs",
+              "RelativeToolTip": "ContentCreationTool.Api\\Application\\DTOs\\AskTextDocumentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:07:30.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "BaseContentItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\BaseContentItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\BaseContentItemDto.cs",
               "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\DTOs\\BaseContentItemDto.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\BaseContentItemDto.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\BaseContentItemDto.cs",
               "RelativeToolTip": "ContentCreationTool.Api\\Application\\DTOs\\BaseContentItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -242,143 +507,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OllamaService.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Services\\OllamaService.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Services\\OllamaService.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Services\\OllamaService.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Services\\OllamaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:17:58.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TextDocumentController.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Controllers\\TextDocumentController.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Controllers\\TextDocumentController.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Controllers\\TextDocumentController.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Controllers\\TextDocumentController.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T00:43:03.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LLMController.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Controllers\\LLMController.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Controllers\\LLMController.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Controllers\\LLMController.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Controllers\\LLMController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T18:57:40.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IOllamaService.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Services\\IOllamaService.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Services\\IOllamaService.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Services\\IOllamaService.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Services\\IOllamaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:17:59.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Program.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Program.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAASwDwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T19:30:38.299Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LLMModelType.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Enums\\LLMModelType.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Domain\\Enums\\LLMModelType.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Enums\\LLMModelType.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Domain\\Enums\\LLMModelType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T18:12:19.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ContentItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\ContentItemRepository.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\Repositories\\ContentItemRepository.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\ContentItemRepository.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Application\\Repositories\\ContentItemRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T18:58:25.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IContentItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\IContentItemRepository.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\Repositories\\IContentItemRepository.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\IContentItemRepository.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Application\\Repositories\\IContentItemRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T22:31:58.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TextDocumentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\TextDocumentRepository.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\Repositories\\TextDocumentRepository.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\TextDocumentRepository.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Application\\Repositories\\TextDocumentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T00:28:59.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ITextDocumentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\ITextDocumentRepository.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\Repositories\\ITextDocumentRepository.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\ITextDocumentRepository.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Application\\Repositories\\ITextDocumentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T00:28:45.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ContentItem.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Entities\\ContentItem.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Domain\\Entities\\ContentItem.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Entities\\ContentItem.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Domain\\Entities\\ContentItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T21:08:47.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "ContentItemUploadDto.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\ContentItemUploadDto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\ContentItemUploadDto.cs",
               "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\DTOs\\ContentItemUploadDto.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\ContentItemUploadDto.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\ContentItemUploadDto.cs",
               "RelativeToolTip": "ContentCreationTool.Api\\Application\\DTOs\\ContentItemUploadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -386,47 +519,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "TextDocument.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Entities\\TextDocument.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Domain\\Entities\\TextDocument.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Entities\\TextDocument.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Domain\\Entities\\TextDocument.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T18:11:23.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ImageDocument.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Entities\\ImageDocument.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Domain\\Entities\\ImageDocument.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Domain\\Entities\\ImageDocument.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Domain\\Entities\\ImageDocument.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T18:11:33.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "LLMResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\LLMResponseDto.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\DTOs\\LLMResponseDto.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\LLMResponseDto.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Application\\DTOs\\LLMResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:13:47.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\appsettings.json",
               "RelativeDocumentMoniker": "ContentCreationTool.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\appsettings.json",
               "RelativeToolTip": "ContentCreationTool.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -434,71 +531,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "TextDocumentDto.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\TextDocumentDto.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\DTOs\\TextDocumentDto.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\DTOs\\TextDocumentDto.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Application\\DTOs\\TextDocumentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T00:50:17.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Infrastructure\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Infrastructure\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Infrastructure\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Infrastructure\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T20:48:49.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ImageDocumentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\ImageDocumentRepository.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\Repositories\\ImageDocumentRepository.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\ImageDocumentRepository.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Application\\Repositories\\ImageDocumentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T00:30:17.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IImageDocumentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\IImageDocumentRepository.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Application\\Repositories\\IImageDocumentRepository.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Application\\Repositories\\IImageDocumentRepository.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Application\\Repositories\\IImageDocumentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T00:29:56.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20250426221750_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Migrations\\20250426221750_InitialCreate.cs",
-              "RelativeDocumentMoniker": "ContentCreationTool.Api\\Migrations\\20250426221750_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\Migrations\\20250426221750_InitialCreate.cs",
-              "RelativeToolTip": "ContentCreationTool.Api\\Migrations\\20250426221750_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T22:17:50.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "ContentCreationTool.Api.csproj",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\ContentCreationTool.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\ContentCreationTool.Api.csproj",
               "RelativeDocumentMoniker": "ContentCreationTool.Api\\ContentCreationTool.Api.csproj",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\ContentCreationTool.Api.csproj",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\ContentCreationTool.Api.csproj",
               "RelativeToolTip": "ContentCreationTool.Api\\ContentCreationTool.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -506,23 +543,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
               "ViewState": "AgIAAJYBAAAAAAAAAAAlwLEBAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-04-26T22:11:40.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ContentCreationTool.Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\appsettings.Development.json",
               "RelativeToolTip": "ContentCreationTool.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

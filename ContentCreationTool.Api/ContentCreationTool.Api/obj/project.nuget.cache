@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4yt325FTlmQ=",
+  "dgSpecHash": "AVhfwstHmfk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\ContentCreationTool.Api.csproj",
+  "projectFilePath": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\ContentCreationTool.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\fluentassertions\\8.1.1\\fluentassertions.8.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",

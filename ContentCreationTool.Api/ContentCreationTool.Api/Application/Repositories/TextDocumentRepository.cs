@@ -65,9 +65,6 @@ namespace ContentCreationTool.Api.Application.Repositories
             {
                 return false;
             }
-            //context.TextDocuments.Update(textDocument);
-            //var result = await context.SaveChangesAsync();
-            //return result > 0;
             context.Entry(existingTextDocument).CurrentValues.SetValues(textDocumentDto);
             await context.SaveChangesAsync();
             return true;
@@ -90,7 +87,7 @@ namespace ContentCreationTool.Api.Application.Repositories
             {
                 FileName = file.FileName,
                 ExtractedText = extractedText,
-                Summary = string.Empty, // You can set a default summary or leave it empty
+                Summary = string.Empty,
                 ContentItemId = contentItemId
             };
 

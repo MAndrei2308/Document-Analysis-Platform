@@ -13,25 +13,23 @@ import { RouterLink } from '@angular/router';
 })
 export class ContentItemsListComponent {
 
-  // Aici poți adăuga logica pentru a obține și a afișa lista de articole de conținut
-  // De exemplu, poți apela un serviciu pentru a obține datele necesare
   contentItems: any[] = []; // Exemplu de listă de articole de conținut
 
   constructor(
-    private contentItemService: ContentItemService // Asigură-te că ai importat și injectat serviciul corespunzător
+    private contentItemService: ContentItemService
   ) {}
 
   ngOnInit() {
-    this.loadContentItems(); // Apelează metoda pentru a încărca articolele de conținut la inițializare
+    this.loadContentItems();
   }
 
   loadContentItems() {
     this.contentItemService.getContentItems().subscribe(
       (data: any[]) => {
-        this.contentItems = data; // Aici poți prelucra datele primite de la serviciu
+        this.contentItems = data;
       },
       (error) => {
-        console.error('Error loading content items:', error); // Gestionează erorile corespunzător
+        console.error('Error loading content items:', error);
       }
     );
   }

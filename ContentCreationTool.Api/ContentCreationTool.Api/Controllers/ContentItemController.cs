@@ -63,64 +63,6 @@ namespace ContentCreationTool.Api.Controllers
             return Ok(contentItem);
         }
 
-        //[HttpPost]
-        //public async Task<IActionResult> AddContentItem([FromBody] BaseContentItemDto contentItemDto)
-        //{
-        //    logger.LogInformation("Adding a new content item.");
-
-        //    if (contentItemDto == null)
-        //    {
-        //        logger.LogWarning("Received null content item.");
-        //        return BadRequest(new { Message = "Content item cannot be null." });
-        //    }
-        //    var contentItem = new ContentItem
-        //    {
-        //        Title = contentItemDto.Title,
-        //        Body = contentItemDto.Body,
-        //        ModelTypeUsed = contentItemDto.ModelTypeUsed,
-        //        CreatedAt = DateTime.UtcNow
-        //    };
-        //    var newId = await contentItemRepository.AddContentItemAsync(contentItem);
-        //    contentItem.Id = newId;
-        //    logger.LogInformation($"Added content item with ID: {newId}");
-
-        //    return CreatedAtAction(nameof(GetContentItemById), new { id = contentItem.Id }, contentItem);
-        //}
-
-        //[HttpPost]
-        //public async Task<IActionResult> AddContentItem([FromBody] BaseContentItemDto contentItemDto)
-        //{
-        //    logger.LogInformation("Adding a new content item.");
-
-        //    if (contentItemDto == null)
-        //    {
-        //        logger.LogWarning("Received null content item.");
-        //        return BadRequest(new { Message = "Content item cannot be null." });
-        //    }
-        //    // 1. Save the content item to the database
-        //    var contentItem = new ContentItem
-        //    {
-        //        Title = contentItemDto.Title,
-        //        Body = contentItemDto.Body,
-        //        ModelTypeUsed = contentItemDto.ModelTypeUsed,
-        //        CreatedAt = DateTime.UtcNow
-        //    };
-        //    var newId = await contentItemRepository.AddContentItemAsync(contentItem);
-        //    contentItem.Id = newId;
-        //    logger.LogInformation($"Added content item with ID: {newId}");
-
-        //    // 2. Return the created content item to ollama
-        //    var responseFromOllama = await ollamaService.AskAsync(contentItemDto.Body, contentItemDto.ModelTypeUsed);
-
-        //    // 3. Return the content item and response from ollama
-
-        //    return CreatedAtAction(nameof(GetContentItemById), new { id = contentItem.Id }, new
-        //    {
-        //        ContentItem = contentItem,
-        //        ResponseFromOllama = responseFromOllama
-        //    });
-        //}
-
         [HttpPost]
         public async Task<IActionResult> AddContentItem([FromForm] ContentItemUploadDto contentItemDto)
         {
@@ -198,51 +140,6 @@ namespace ContentCreationTool.Api.Controllers
             var ollamaResponse = await ollamaService.AskAsync($"The text: {existingTextDocument.ExtractedText}\nThe question about this text: {askTextDocumentDto.Prompt}", askTextDocumentDto.ModelType);
             return Ok(new { Response = ollamaResponse });
         }
-
-        //private async Task<string> ProcessFileAsync(IFormFile uploadedFile)
-        //{
-        //    if (uploadedFile == null || uploadedFile.Length <= 0)
-        //    {
-        //        return null;
-        //    }
-        //    var extension = Path.GetExtension(uploadedFile.FileName).ToLowerInvariant();
-
-        //    using var stream = uploadedFile.OpenReadStream();
-
-        //    if (extension == ".txt")
-        //    {
-        //        using var reader = new StreamReader(stream);
-        //        return await reader.ReadToEndAsync();
-        //    }
-        //    else if (extension == ".pdf")
-        //    {
-        //        using var pdf = PdfDocument.Open(stream);
-        //        var text = new StringBuilder();
-
-        //        foreach (var page in pdf.GetPages())
-        //            text.AppendLine(page.Text);
-
-        //        return text.ToString();
-        //    }
-        //    return string.Empty;
-        //}
-
-        //public async Task<string> ExtractTextFromPdfAsync(Stream pdfStream)
-        //{
-        //    using var memoryStream = new MemoryStream();
-        //    await pdfStream.CopyToAsync(memoryStream);
-        //    memoryStream.Position = 0;
-
-        //    using var document = PdfDocument.Open(memoryStream);
-        //    var text = new StringBuilder();
-
-        //    foreach (var page in document.GetPages())
-        //    {
-        //        text.AppendLine(page.Text);
-        //    }
-
-        //    return text.ToString();
-        //}
 
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateContentItem(Guid id, [FromBody] ContentItemDto contentItemDto)

@@ -95,9 +95,6 @@ namespace ContentCreationTool.Api.Application.Repositories
             {
                 return false;
             }
-            //context.ContentItems.Update(contentItem);
-            //var result = await context.SaveChangesAsync();
-            //return result > 0;
 
             context.Entry(existingContentItem).CurrentValues.SetValues(contentItem);
             await context.SaveChangesAsync();

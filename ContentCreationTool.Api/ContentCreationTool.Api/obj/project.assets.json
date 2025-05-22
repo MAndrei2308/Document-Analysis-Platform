@@ -4479,11 +4479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\ContentCreationTool.Api.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\ContentCreationTool.Api.csproj",
       "projectName": "ContentCreationTool.Api",
-      "projectPath": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\ContentCreationTool.Api.csproj",
+      "projectPath": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\ContentCreationTool.Api.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Documents\\UAIC\\Sem6\\NET_II\\ContentCreationTool.Api\\ContentCreationTool.Api\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Documents\\GitHub\\Document-Analysis-Platform\\ContentCreationTool.Api\\ContentCreationTool.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
