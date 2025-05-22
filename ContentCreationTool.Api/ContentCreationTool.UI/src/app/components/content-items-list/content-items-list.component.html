@@ -1,0 +1,43 @@
+<div class="content-items-list">
+  <h1>Content Items</h1>
+  
+  <!-- <div class="content-controls">
+    
+    <select class="sort-control" [(ngModel)]="sortOption">
+      <option value="newest">Newest First</option>
+      <option value="oldest">Oldest First</option>
+      <option value="title">Title (A-Z)</option>
+    </select>
+  </div> -->
+  
+  <div *ngIf="contentItems.length === 0" class="no-items">
+    <div class="empty-state">
+      <div class="empty-state-icon">📄</div>
+      <p>No content items available.</p>
+      <p>Create new content to get started.</p>
+    </div>
+  </div>
+  
+  <ul *ngIf="contentItems.length > 0">
+    <li *ngFor="let item of contentItems" class="content-item">
+      <h2>{{ item.title }}</h2>
+      <p>{{ getPreview(item.body) }}</p>
+      
+      <div class="content-meta">
+        <p class="date-display">
+          <span>📅</span>
+          <strong>Created:</strong> {{ item.createdAt }}
+        </p>
+        
+        <p *ngIf="item.textDocument">
+          <strong>Document:</strong> {{ item.textDocument.fileName }}
+        </p>
+        
+        <div class="item-actions">
+          <div class="item-action-btn view-btn" [routerLink]="['/content-item', item.id]">View</div>
+          <div class="item-action-btn edit-btn" >Edit</div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>

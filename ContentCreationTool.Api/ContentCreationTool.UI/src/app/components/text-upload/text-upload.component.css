@@ -1,0 +1,169 @@
+/* Container for the form */
+.upload-form-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 30px;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #f0f4f8, #d9e2ec);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+/* Form */
+.upload-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* Title */
+.upload-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  color: #2c3e50;
+}
+
+/* Form Groups */
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Labels */
+.form-group label {
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #34495e;
+}
+
+/* Inputs and Textarea */
+.form-group input[type="text"],
+.form-group input[type="file"],
+.form-group textarea {
+  padding: 12px;
+  font-size: 1rem;
+  border: 1px solid #bdc3c7;
+  border-radius: 10px;
+  background-color: #ffffff;
+  transition: border 0.3s, box-shadow 0.3s;
+}
+
+.form-group input[type="text"]:focus,
+.form-group input[type="file"]:focus,
+.form-group textarea:focus {
+  border-color: #4caf50;
+  box-shadow: 0 0 8px rgba(76, 175, 80, 0.3);
+  outline: none;
+}
+
+.form-group textarea {
+  min-height: 150px;
+  resize: vertical;
+}
+
+/* Upload label */
+.upload-label {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+/* Submit button */
+.submit-button {
+  padding: 14px;
+  background-color: #4caf50;
+  color: white;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.submit-button:hover {
+  background-color: #43a047;
+  transform: translateY(-2px);
+}
+
+/* Loading section */
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+  color: #2c3e50;
+}
+
+/* Spinner animation */
+.spinner {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 20px;
+  border: 6px solid #ccc;
+  border-top: 6px solid #4caf50;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+/* Spinner keyframes */
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Response container */
+.response-container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 25px;
+  border-radius: 16px;
+  background: #e8f5e9;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  color: #2e7d32;
+}
+
+.response-container h3 {
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+/* Response text */
+.llm-response {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.button-group {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.new-question-button {
+  padding: 14px;
+  background-color: #f44336;
+  color: white;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.new-question-button:hover {
+  background-color: #e53935;
+  transform: translateY(-2px);
+}
+
+/* Select box for model */
+.form-group select {
+  padding: 12px;
+  font-size: 1rem;
+  border: 1px solid #bdc3c7;
+  border-radius: 10px;
+  background-color: #fff;
+}

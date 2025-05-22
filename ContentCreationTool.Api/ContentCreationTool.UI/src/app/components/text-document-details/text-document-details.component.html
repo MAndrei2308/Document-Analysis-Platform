@@ -1,0 +1,94 @@
+<div class="document-detail-container">
+  <div class="document-header">
+    <div class="back-link">
+      <a [routerLink]="['/text-documents']" class="back-link-btn">
+        <span class="back-icon">←</span> Back to Text Documents
+      </a>
+    </div>
+   
+    <h1 class="document-title">{{ document?.fileName }}</h1>
+   
+    <div class="document-meta">
+      <div class="meta-item">
+        <span class="meta-label">Document ID:</span>
+        <span class="meta-value">{{ document?.id }}</span>
+      </div>
+      <!-- Additional meta items can be added here -->
+    </div>
+  </div>
+ 
+  <div class="document-content-card">
+    <h2>Document Content</h2>
+    <div class="text-content">
+      <p *ngIf="!document?.extractedText" class="no-content">
+        No content available for this document.
+      </p>
+      <div *ngIf="document?.extractedText" class="extracted-text">
+        {{ document.extractedText }}
+      </div>
+    </div>
+  </div>
+ 
+  <div class="action-bar">
+    <button class="action-btn primary-btn">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"></path>
+        <polyline points="7 10 12 15 17 10"></polyline>
+        <line x1="12" y1="15" x2="12" y2="3"></line>
+      </svg>
+      Download Document
+    </button>
+    <button class="action-btn secondary-btn" (click)="toggleAskLlm()">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10"></circle>
+        <line x1="12" y1="16" x2="12" y2="12"></line>
+        <line x1="12" y1="8" x2="12.01" y2="8"></line>
+      </svg>
+      Ask AI
+    </button>
+    <button class="action-btn danger-btn" (click)="deleteDocument()" [routerLink]="['/text-documents']">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="3 6 5 6 21 6"></polyline>
+        <path d="M19 6v14a2 2 0 01-2 2H7a2 2 0 01-2-2V6m3 0V4a2 2 0 012-2h4a2 2 0 012 2v2"></path>
+        <line x1="10" y1="11" x2="10" y2="17"></line>
+        <line x1="14" y1="11" x2="14" y2="17"></line>
+      </svg>
+      Delete Document
+    </button>
+  </div>
+  
+  <div *ngIf="showAskLlm" class="llm-question-section">
+    <form (ngSubmit)="askLlm()" #llmForm="ngForm">
+      <input
+        type="text"
+        [(ngModel)]="llmQuestion"
+        name="llmQuestion"
+        placeholder="Ask a question about this document..."
+        required
+        class="llm-input"
+      />
+      <div class="form-group">
+        <label for="model">Select LLM Model</label>
+        <select [(ngModel)]="modelTypeUsed" name="model" id="model" required>
+          <option *ngFor="let model of llmModels" [value]="model">{{ model }}</option>
+        </select>
+      </div>
+      <button type="submit" class="action-btn primary-btn" [disabled]="!llmQuestion">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+        </svg>
+        Ask Question
+      </button>
+    </form>
+    
+    <div *ngIf="isLoading" class="loading-container">
+      <div class="spinner"></div>
+      <p>Generating LLM response...</p>
+    </div>
+    
+    <div *ngIf="!isLoading && llmAnswer" class="llm-answer">
+      <strong>LLM Answer:</strong>
+      <p>{{ llmAnswer }}</p>
+    </div>
+  </div>
+</div>

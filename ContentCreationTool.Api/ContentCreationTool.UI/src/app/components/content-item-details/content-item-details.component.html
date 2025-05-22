@@ -1,0 +1,87 @@
+<!-- content-item-detail.component.html -->
+<div class="content-item-detail-container">
+  <div class="content-header">
+    <div class="back-link">
+      <a [routerLink]="['/content-items']">
+        <span class="back-icon">←</span> Back to Content Items
+      </a>
+    </div>
+    
+    <h1 class="content-title">{{ contentItem?.title }}</h1>
+    
+    <div class="content-meta">
+      <div class="meta-item">
+        <span class="meta-label">ID:</span>
+        <span class="meta-value">{{ contentItem?.id }}</span>
+      </div>
+      <div class="meta-item">
+        <span class="meta-label">Created:</span>
+        <span class="meta-value">{{ contentItem?.createdAt }}</span>
+      </div>
+      <div class="meta-item">
+        <span class="meta-label">Model Type:</span>
+        <span class="meta-value">{{ getModelTypeName(contentItem?.modelTypeUsed) }}</span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="content-body-card">
+    <h2>Content Description</h2>
+    <div class="body-content">
+      <p *ngIf="!contentItem?.body" class="no-content">
+        No description available for this content.
+      </p>
+      <div *ngIf="contentItem?.body" class="body-text">
+        {{ contentItem.body }}
+      </div>
+    </div>
+  </div>
+  
+  <!-- <div class="llm-response-card" *ngIf="llmResponse">
+    <h2>AI Response</h2>
+    <div class="response-content">
+      <div class="response-text">
+        {{ llmResponse }}
+      </div>
+    </div>
+  </div> -->
+  
+  <div class="associated-document" *ngIf="contentItem?.textDocument">
+    <h2>Associated Document</h2>
+    <div class="document-card">
+      <h3>{{ contentItem.textDocument.fileName }}</h3>
+      <div class="document-preview">
+        <p class="preview-label">Preview:</p>
+        <div class="preview-text">
+          {{ contentItem.textDocument.extractedText}}
+        </div>
+      </div>
+      
+      <div class="item-actions">
+        <a class="item-action-btn view-btn" [routerLink]="['/documents', contentItem.textDocument.id]">
+          View Full Document
+        </a>
+      </div>
+    </div>
+  </div>
+  
+  <!-- <div class="no-document" *ngIf="!contentItem?.textDocument">
+    <div class="no-document-card">
+      <h3>No Document Attached</h3>
+      <p>This content item does not have any document associated with it.</p>
+      <button class="attach-btn" (click)="attachDocument()">Attach Document</button>
+    </div>
+  </div>
+   -->
+  <div class="action-bar">
+    <button class="action-btn primary-btn">
+      Generate AI Response
+    </button>
+    <button class="action-btn secondary-btn">
+      Edit Content
+    </button>
+    <button class="action-btn danger-btn" (click)="deleteContentItem()" [routerLink]="['/content-items']">
+      Delete Content Item
+    </button>
+  </div>
+</div>

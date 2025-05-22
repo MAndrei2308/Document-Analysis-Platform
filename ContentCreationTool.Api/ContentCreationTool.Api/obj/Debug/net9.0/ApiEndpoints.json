@@ -1,0 +1,253 @@
+[
+  {
+    "ContainingType": "ContentCreationTool.Api.Controllers.ContentItemController",
+    "Method": "GetAllContentItems",
+    "RelativePath": "api/ContentItem",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentCreationTool.Api.Controllers.ContentItemController",
+    "Method": "AddContentItem",
+    "RelativePath": "api/ContentItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UploadedFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Body",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ModelTypeUsed",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentCreationTool.Api.Controllers.ContentItemController",
+    "Method": "GetContentItemById",
+    "RelativePath": "api/ContentItem/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentCreationTool.Api.Controllers.ContentItemController",
+    "Method": "UpdateContentItem",
+    "RelativePath": "api/ContentItem/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "contentItemDto",
+        "Type": "ContentCreationTool.Api.Application.DTOs.ContentItemDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentCreationTool.Api.Controllers.ContentItemController",
+    "Method": "DeleteContentItem",
+    "RelativePath": "api/ContentItem/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentCreationTool.Api.Controllers.ContentItemController",
+    "Method": "AskTextDocument",
+    "RelativePath": "api/ContentItem/ask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "askTextDocumentDto",
+        "Type": "ContentCreationTool.Api.Application.DTOs.AskTextDocumentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentCreationTool.Api.Controllers.LLMController",
+    "Method": "Ask",
+    "RelativePath": "api/LLM/ask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ContentCreationTool.Api.Application.DTOs.LLMRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentCreationTool.Api.Controllers.TextDocumentController",
+    "Method": "GetAllTextDocuments",
+    "RelativePath": "api/TextDocument",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentCreationTool.Api.Controllers.TextDocumentController",
+    "Method": "AddTextDocument",
+    "RelativePath": "api/TextDocument",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "textDocumentDto",
+        "Type": "ContentCreationTool.Api.Application.DTOs.BaseTextDocumentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentCreationTool.Api.Controllers.TextDocumentController",
+    "Method": "GetTextDocumentById",
+    "RelativePath": "api/TextDocument/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentCreationTool.Api.Controllers.TextDocumentController",
+    "Method": "UpdateTextDocument",
+    "RelativePath": "api/TextDocument/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "textDocumentDto",
+        "Type": "ContentCreationTool.Api.Application.DTOs.TextDocumentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentCreationTool.Api.Controllers.TextDocumentController",
+    "Method": "DeleteTextDocument",
+    "RelativePath": "api/TextDocument/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContentCreationTool.Api.Controllers.TextDocumentController",
+    "Method": "UploadTextDocument",
+    "RelativePath": "api/TextDocument/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ContentType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ContentDisposition",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Headers",
+        "Type": "Microsoft.AspNetCore.Http.IHeaderDictionary",
+        "IsRequired": false
+      },
+      {
+        "Name": "Length",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FileName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "contentItemId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,37 @@
+<div class="text-document-list">
+  <h1>Text Documents</h1>
+
+  <!-- <div class="content-controls">
+    <select class="sort-control" [(ngModel)]="sortOption">
+      <option value="newest">Newest First</option>
+      <option value="oldest">Oldest First</option>
+      <option value="title">Title (A-Z)</option>
+    </select>
+  </div> -->
+
+  <div *ngIf="textDocuments.length === 0" class="no-items">
+    <div class="empty-state">
+      <div class="empty-state-icon">📄</div>
+      <p>No text documents available.</p>
+      <p>Create new text documents to get started.</p>
+    </div>
+  </div>
+
+  <ul *ngIf="textDocuments.length > 0">
+    <li *ngFor="let document of textDocuments" class="text-document-item">
+      <h2>{{ document.fileName }}</h2>
+      <p>{{ getPreview(document.extractedText) }}</p>
+
+      <div class="document-meta">
+        <p class="date-display">
+          <span>📅</span>
+          <strong>Created:</strong> {{ document.createdAt }}
+        </p>
+
+        <div class="item-actions">
+          <button class="item-action-btn view-btn" [routerLink]="['/text-document', document.id]">View</button>
+          <button class="item-action-btn edit-btn">Edit</button>
+        </div>
+      </div>
+    </li>
+  </ul>

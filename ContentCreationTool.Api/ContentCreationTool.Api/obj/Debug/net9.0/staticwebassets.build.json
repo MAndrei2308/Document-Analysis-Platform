@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IT9IgivOn/e+EUPd5UlrJinf5UkwYliy7E1iTUs/tf4=",
+  "Source": "ContentCreationTool.Api",
+  "BasePath": "_content/ContentCreationTool.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
